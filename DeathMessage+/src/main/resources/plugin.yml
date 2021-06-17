@@ -1,0 +1,5 @@
+main: com.arkfish.spigot.deathmessageplus.Main
+name: DeathMessagePlus
+version: '1.0'
+description: Allows for configuring of the default death messages
+api-version: 1.16
