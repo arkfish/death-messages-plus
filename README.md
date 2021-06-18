@@ -3,11 +3,11 @@ Custom death messages plugin for Minecraft. works on Spigot or Bukkit 1.16.x and
 
 Made by arkfish#2294
 
-### Install
+### Installation
 Mediafire download: https://www.mediafire.com/file/5qsyy0w4jjgpjul/DeathMessagesPlus.jar/file
 
 Go to your server filesystem in whatever application you choose,
-drag the jar into the plugins,
+drag the jar into the plugins folder,
 restart or use the command /reload on your server,
 use the command /pl on your server and check that the plugin DeathMessagesPlus is there
 
